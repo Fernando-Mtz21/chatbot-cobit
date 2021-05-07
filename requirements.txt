@@ -108,7 +108,6 @@ MarkupSafe
 mathparse==0.1.2
 matplotlib
 mccabe==0.6.1
-menuinst==1.4.16
 mistune
 mkl-fft==1.0.14
 mkl-random==1.0.4
