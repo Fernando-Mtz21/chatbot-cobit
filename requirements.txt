@@ -249,6 +249,7 @@ typing-extensions
 ujson==1.35
 unicode==2.8
 unicodecsv==0.14.1
+unixodbc-dev
 urllib3==1.25.9
 wasabi==0.8.2
 watchdog
