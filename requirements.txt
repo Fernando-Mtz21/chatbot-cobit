@@ -172,7 +172,7 @@ pyglet==1.5.0
 Pygments==2.6.1
 pylint
 PyNaCl
-pyodbc===4.0.0-unsupported
+pyodbc===4.0.1
 pyOpenSSL
 pyparsing==2.4.7
 pyreadline==2.1
