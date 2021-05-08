@@ -1,5 +1,4 @@
 ChatterBot==1.1.0a7
-chatterot-corpus==1.2.0
 click==7.1.2
 Django==3.2
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz
